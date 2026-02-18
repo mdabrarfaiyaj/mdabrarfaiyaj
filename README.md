@@ -65,7 +65,7 @@ Comparative analysis of coding vs non-coding regions and GC content in the *Sacc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabrarfaiyaj&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdabrarfaiyaj&show_icons=true&theme=radical&hide_border=true)
 
 ---
 

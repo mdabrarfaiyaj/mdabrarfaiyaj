@@ -57,12 +57,6 @@ Comparative analysis of coding vs non-coding regions and GC content in the *Sacc
 - **Computational Drug Design**: In silico approaches to drug discovery
 - **Data Science for Life Sciences**: Applying statistical methods to biological questions
 
-## 📈 Quick Stats
-
-- 🔭 7 public repositories
-- 💻 85 contributions in the last year
-- ⭐ 52 stars received
-- 🌱 Actively learning and building
 
 ## 📫 Let's Connect!
 

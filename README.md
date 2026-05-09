@@ -81,7 +81,7 @@ Exploratory analysis of 1,025 patient records to identify risk factors for heart
 - Infectious Disease Genomics & Variant Surveillance  
 - Clinical & Healthcare Data Analysis  
 - Development of Reproducible Bioinformatics Tools  
-- Computational Immunology & Public Health  
+- Computational Biology & Public Health  
 
 ---
 

@@ -60,7 +60,7 @@ I work at the intersection of **infectious disease biology** and **computational
 
 ## 🚀 Featured Projects
 
-### 1. Typhoid Fever AMR Surveillance Dashboard — Bangladesh (2000–2023)
+### 1. Typhoid Fever AMR Surveillance Dashboard — Bangladesh (1999–2022)
 
 A 24-year retrospective analysis of *Salmonella* Typhi antimicrobial resistance trends in Bangladesh, extending Tanmoy et al. 2024 (PLOS NTDs) with TyphiNET genomic data. Fully deployed as an interactive Shiny dashboard and a Quarto report on GitHub Pages.
 

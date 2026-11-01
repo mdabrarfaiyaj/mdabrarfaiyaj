@@ -1,6 +1,6 @@
 # Hi, I'm Md Abrar Faiyaj 👋
 
-**M.Sc. Biotechnology, BRAC University | Junior Research Collaborator | Bioinformatics**  
+**M.S. in Biotechnology, BRAC University | Junior Research Collaborator | Bioinformatics**  
 **Reproducible pipelines and analyses in microbial genomics, AMR surveillance and cancer structural bioinformatics**
 
 [![Website](https://img.shields.io/badge/Website%20%26%20Blog-mdabrarfaiyaj.github.io-2E8B57?style=for-the-badge&logo=githubpages&logoColor=white)](https://mdabrarfaiyaj.github.io/)
